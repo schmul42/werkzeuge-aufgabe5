@@ -1,4 +1,4 @@
-#Wie kompiliert man JAva Code?
+#Wie kompiliert man Java Code?
 
-*javac HlloWorld.java
+*javac HelloWorld.java
 *java HelloWorld
